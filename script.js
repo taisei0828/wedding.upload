@@ -1,5 +1,5 @@
 // ▼▼▼ ここに、Google Apps Scriptをデプロイして得られる「ウェブアプリURL」を貼り付けてください ▼▼▼
-const SCRIPT_URL = "https://script.google.com/macros/s/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxuByMnYtXzintdwzbpAXeMADAtyTlF5xwq3hCscMk9EuP3HpKNJPwIKnYLeuiNgPObKA/exec";
 // ▲▲▲ setup_guide.md の手順3を参照 ▲▲▲
 
 const CHUNK_SIZE = 6 * 1024 * 1024;      // 1チャンクあたり6MB
