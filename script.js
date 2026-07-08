@@ -1,5 +1,5 @@
 // ▼▼▼ Cloudflare Workerをデプロイして得られるURLを貼り付けてください（例: https://xxxx.workers.dev） ▼▼▼
-const WORKER_URL = "https://your-worker-name.your-subdomain.workers.dev";
+const WORKER_URL = "https://edding-upload.o-taisei-0828.workers.dev/";
 // ▲▲▲ setup_guide.md の手順を参照 ▲▲▲
 
 const SINGLE_PUT_LIMIT = 90 * 1024 * 1024;    // 90MB以下は1リクエストでそのまま送る
